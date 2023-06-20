@@ -22,7 +22,7 @@
         "typescript": "^4.5.5"
     },
     "dependencies": {
-        "aws-cdk-lib": "^2.13.0",
+        "aws-cdk-lib": "^2.80.0",
         "constructs": "^10.0.51",
         "source-map-support": "^0.5.21",
         "@local/utils": "file:./lib/lambda/utils-module"
